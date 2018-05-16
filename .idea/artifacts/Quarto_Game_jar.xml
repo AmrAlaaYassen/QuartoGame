@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quarto Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quarto_Game_jar</output-path>
+    <root id="archive" name="Quarto Game.jar">
+      <element id="module-output" name="Quarto Game" />
+      <element id="extracted-dir" path="/usr/lib/swi-prolog/lib/jpl.jar" path-in-jar="/" />
+      <element id="file-copy" path="/usr/lib/swi-prolog/lib/jpl.jar" />
+    </root>
+  </artifact>
+</component>
