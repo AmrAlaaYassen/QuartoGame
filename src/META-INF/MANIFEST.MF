@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jpl.jar
+Main-Class: com.quarto.Quarto
+
